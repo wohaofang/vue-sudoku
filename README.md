@@ -239,7 +239,7 @@ npm run build
 
 比如说用图片做9宫格。。。
 
-![数独](./img/baoman.jpeg)
+
 
 
 
